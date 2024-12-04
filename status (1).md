@@ -19,4 +19,4 @@ As far, we complete the coding process, dowing every png.files for our program. 
 There is error in the explosion class of our program.
 
 #### What problems, if any, have you encountered?
-There is an error when chicken gets struck by a car. The chicken was supposed to create an explosion animation but there 
+There is an error when chicken gets struck by a car. The chicken was supposed to create an explosion animation but there is error in the Explosion function.
